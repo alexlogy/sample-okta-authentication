@@ -127,3 +127,6 @@ fabric.properties
 
 # Ignore config.json after initial commit
 config.json
+
+# Mac file
+.DS_Store
