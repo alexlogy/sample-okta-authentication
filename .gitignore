@@ -124,3 +124,6 @@ fabric.properties
 *.crt
 *.key
 *.pem
+
+# Ignore config.json after initial commit
+config.json
