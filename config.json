@@ -1,0 +1,7 @@
+{
+  "app_url": "http://localhost:8080",
+  "saml_idp_metadata_url": "https://xxxx.okta.com/app/xxxx/sso/saml/metadata",
+  "saml_sp_cert_file": "sample-app.crt",
+  "saml_sp_key_file": "sample-app.key",
+  "logout_url": "https://xxxx.okta.com"
+}
